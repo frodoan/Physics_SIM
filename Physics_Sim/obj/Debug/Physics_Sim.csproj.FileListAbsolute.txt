@@ -1,0 +1,7 @@
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\bin\Debug\Physics_Sim.exe.config
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\bin\Debug\Physics_Sim.exe
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\bin\Debug\Physics_Sim.pdb
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\obj\Debug\Physics_Sim.csprojAssemblyReference.cache
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\obj\Debug\Physics_Sim.csproj.CoreCompileInputs.cache
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\obj\Debug\Physics_Sim.exe
+C:\Users\Gideon\source\repos\Physics_Sim\Physics_Sim\obj\Debug\Physics_Sim.pdb
